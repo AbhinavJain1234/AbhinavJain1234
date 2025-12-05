@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AbhinavJain1234/Readme/main/assets/header_image.png" width="100%" alt="Tech Stack Banner">
+  <img src="https://raw.githubusercontent.com/AbhinavJain1234/AbhinavJain1234/main/assets/header_image.png" width="100%" alt="Tech Stack Banner">
 </div>
 
 ## <div align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 About Me
+##  About Me
 
 <div align="center">
   
