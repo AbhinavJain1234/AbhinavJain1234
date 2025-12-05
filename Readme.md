@@ -22,60 +22,42 @@ I'm a passionate developer who loves building amazing projects and exploring new
 
 # Skills & Technologies
 
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-td {
-  border: none;
-  padding: 10px;
-}
-a {
-  text-decoration: none;
-  color: inherit;
-}
-a:hover {
-  text-decoration: none;
-}
-</style>
-
 ## Languages
 
-<table>
+<table style="border-collapse:collapse;border:none;background-color:transparent;">
 <tr>
-<td align="center" width="120">
-<a href="https://www.java.com/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://www.java.com/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="70" height="70" alt="Java"/>
 <br/>Java
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://www.python.org/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://www.python.org/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="70" height="70" alt="Python"/>
 <br/>Python
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="70" height="70" alt="JavaScript"/>
 <br/>JavaScript
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://cplusplus.com/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://cplusplus.com/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" width="70" height="70" alt="C++"/>
 <br/>C++
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" width="70" height="70" alt="C"/>
 <br/>C
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://www.rust-lang.org/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://www.rust-lang.org/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" width="70" height="70" alt="Rust"/>
 <br/>Rust
 </a>
@@ -85,34 +67,34 @@ a:hover {
 
 ## Frontend & Mobile
 
-<table>
+<table style="border-collapse:collapse;border:none;background-color:transparent;">
 <tr>
-<td align="center" width="120">
-<a href="https://react.dev/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://react.dev/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="70" height="70" alt="React"/>
 <br/>React
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://flutter.dev/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://flutter.dev/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="70" height="70" alt="Flutter"/>
 <br/>Flutter
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="70" height="70" alt="HTML"/>
 <br/>HTML
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="70" height="70" alt="CSS"/>
 <br/>CSS
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://www.figma.com/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://www.figma.com/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="70" height="70" alt="Figma"/>
 <br/>Figma
 </a>
@@ -122,28 +104,28 @@ a:hover {
 
 ## Backend & Frameworks
 
-<table>
+<table style="border-collapse:collapse;border:none;background-color:transparent;">
 <tr>
-<td align="center" width="120">
-<a href="https://spring.io/projects/spring-boot" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://spring.io/projects/spring-boot" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="70" height="70" alt="Spring Boot"/>
 <br/>Spring Boot
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://spring.io/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://spring.io/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" width="70" height="70" alt="Spring"/>
 <br/>Spring
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://www.djangoproject.com/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://www.djangoproject.com/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" width="70" height="70" alt="Django"/>
 <br/>Django
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://streamlit.io/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://streamlit.io/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" width="70" height="70" alt="Streamlit"/>
 <br/>Streamlit
 </a>
@@ -153,28 +135,28 @@ a:hover {
 
 ## Databases & ORM
 
-<table>
+<table style="border-collapse:collapse;border:none;background-color:transparent;">
 <tr>
-<td align="center" width="120">
-<a href="https://www.postgresql.org/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://www.postgresql.org/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="70" height="70" alt="PostgreSQL"/>
 <br/>PostgreSQL
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://www.mysql.com/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://www.mysql.com/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="70" height="70" alt="MySQL"/>
 <br/>MySQL
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://firebase.google.com/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://firebase.google.com/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" width="70" height="70" alt="Firebase"/>
 <br/>Firebase
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://hibernate.org/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://hibernate.org/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" width="70" height="70" alt="Hibernate"/>
 <br/>Hibernate
 </a>
@@ -185,34 +167,34 @@ a:hover {
 
 ## Tools & Development Environment
 
-<table>
+<table style="border-collapse:collapse;border:none;background-color:transparent;">
 <tr>
-<td align="center" width="120">
-<a href="https://www.jetbrains.com/idea/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://www.jetbrains.com/idea/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" width="70" height="70" alt="IntelliJ IDEA"/>
 <br/>IntelliJ IDEA
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://code.visualstudio.com/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://code.visualstudio.com/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="70" height="70" alt="VS Code"/>
 <br/>VS Code
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://developer.android.com/studio" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://developer.android.com/studio" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" width="70" height="70" alt="Android Studio"/>
 <br/>Android Studio
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://git-scm.com/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://git-scm.com/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="70" height="70" alt="Git"/>
 <br/>Git
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://github.com/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://github.com/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="70" height="70" alt="GitHub"/>
 <br/>GitHub
 </a>
@@ -222,22 +204,22 @@ a:hover {
 
 ## Build & Testing
 
-<table>
+<table style="border-collapse:collapse;border:none;background-color:transparent;">
 <tr>
-<td align="center" width="120">
-<a href="https://maven.apache.org/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://maven.apache.org/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" width="70" height="70" alt="Maven"/>
 <br/>Maven
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://www.postman.com/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://www.postman.com/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="70" height="70" alt="Postman"/>
 <br/>Postman
 </a>
 </td>
-<td align="center" width="120">
-<a href="https://projectlombok.org/" target="_blank">
+<td align="center" width="120" style="border:none;">
+<a href="https://projectlombok.org/" target="_blank" style="text-decoration:none;color:inherit;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lombok.png" width="70" height="70" alt="Lombok"/>
 <br/>Lombok
 </a>
