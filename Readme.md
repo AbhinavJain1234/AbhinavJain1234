@@ -21,6 +21,25 @@ I'm a passionate developer who loves building amazing projects and exploring new
 ---
 
 # Skills & Technologies
+
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+td {
+  border: none;
+  padding: 10px;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+a:hover {
+  text-decoration: none;
+}
+</style>
+
 ## Languages
 
 <table>
