@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/AbhinavJain1234/AbhinavJain1234/main/assets/header_image.png" width="100%" alt="Tech Stack Banner">
 </div>
 
-## <div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Hi+I'm+Abhinav!+👋;Full+Stack+Developer;Mobile+Developer;Always+Learning" alt="Typing SVG">
 </div>
 
