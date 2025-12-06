@@ -248,6 +248,9 @@ I'm a passionate developer who loves building amazing projects and exploring new
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhinavJain1234&theme=radical)](https://github.com/AbhinavJain1234)
 
+<!-- Isometric Commit Calendar -->
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar"/>
+
 </div>
 
 ---
