@@ -2,21 +2,31 @@
   <img src="https://raw.githubusercontent.com/AbhinavJain1234/AbhinavJain1234/main/assets/header_image.png" width="100%" alt="Tech Stack Banner">
 </div>
 
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=60&lines=Hi+I'm+Abhinav!+👋;Full+Stack+Developer;Mobile+Developer;Always+Learning" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFFx&center=true&vCenter=true&width=500&height=60&lines=Hi+I'm+Abhinav!+👋;Full+Stack+Developer;Mobile+Developer;Always+Learning" alt="Typing SVG">
 </div>
 
----
-
-##  About Me
-
+<!-- ##  About Me
 <div align="center">
   
 I'm a passionate developer who loves building amazing projects and exploring new technologies. When I'm not coding, you can find me learning about the latest web technologies or contributing to open-source projects.
 
-**"Code is poetry, and debugging is finding the typo." 💻**
-
+**"Code is poetry, and debugging is finding the typo." 💻** -->
 </div>
+
+## About Me
+
+- I enjoy building products that solve real problems and push me to think better as a developer.  
+- Comfortable with Flutter, Java and backend development, and always exploring new tech.  
+- I like taking ideas from rough sketches to working features that feel smooth and reliable.  
+- Learning how systems behave under the hood interests me more than just writing code that works.  
+- I focus on clean structure, readable logic and improving my debugging skills with every project.  
+- Real world projects teach me the most, so I keep building and experimenting whenever I can.  
+- Interested in teams that move fast, work on meaningful problems and value strong engineering.
+
+**Build. Learn. Improve. Repeat.**
+
 
 ---
 
@@ -256,16 +266,25 @@ I'm a passionate developer who loves building amazing projects and exploring new
 
 ---
 
-## 📞 Get In Touch
+## Get In Touch
+
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavjain)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhinavjain)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhinavJain1234)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
-
+  <a href="https://www.linkedin.com/in/abhinavjain30/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Abhinav_3001" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" alt="X/Twitter"/>
+  </a>
+  <a href="mailto:abhinavj3001@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email"/>
+  </a>
+  <a href="https://github.com/AbhinavJain1234" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/Abhinav_Jain_" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="48" alt="LeetCode"/>
+  </a>
 </div>
 
 ---
