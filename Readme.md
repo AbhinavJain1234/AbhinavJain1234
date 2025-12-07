@@ -34,61 +34,61 @@ I'm a passionate developer who loves building amazing projects and exploring new
 
 ## Languages
 
-<p align="left">
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="48" alt="Java"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="48" alt="Python"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="48" alt="JavaScript"/></a>
-  <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" width="48" alt="C++"/></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" width="48" alt="C"/></a>
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" width="48" alt="Rust"/></a>
-</p>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:32px;">
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="64" alt="Java" style="margin: 0 16px;"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="64" alt="Python" style="margin: 0 16px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="64" alt="JavaScript" style="margin: 0 16px;"/></a>
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" width="64" alt="C++" style="margin: 0 16px;"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" width="64" alt="C" style="margin: 0 16px;"/></a>
+  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" width="64" alt="Rust" style="margin: 0 16px;"/></a>
+</div>
 
 ## Frontend & Mobile
 
-<p align="left">
-  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="48" alt="React"/></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="48" alt="Flutter"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="48" alt="HTML"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="48" alt="CSS"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="48" alt="Figma"/></a>
-</p>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:32px;">
+  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="64" alt="React" style="margin: 0 16px;"/></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="64" alt="Flutter" style="margin: 0 16px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="64" alt="HTML" style="margin: 0 16px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="64" alt="CSS" style="margin: 0 16px;"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="64" alt="Figma" style="margin: 0 16px;"/></a>
+</div>
 
 ## Backend & Frameworks
 
-<p align="left">
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="48" alt="Spring Boot"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" width="48" alt="Spring"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" width="48" alt="Django"/></a>
-  <a href="https://streamlit.io/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" width="48" alt="Streamlit"/></a>
-</p>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:32px;">
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="64" alt="Spring Boot" style="margin: 0 16px;"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" width="64" alt="Spring" style="margin: 0 16px;"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" width="64" alt="Django" style="margin: 0 16px;"/></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" width="64" alt="Streamlit" style="margin: 0 16px;"/></a>
+</div>
 
 ## Databases & ORM
 
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="48" alt="PostgreSQL"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="48" alt="MySQL"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" width="48" alt="Firebase"/></a>
-  <a href="https://hibernate.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" width="48" alt="Hibernate"/></a>
-</p>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:32px;">
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="64" alt="PostgreSQL" style="margin: 0 16px;"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="64" alt="MySQL" style="margin: 0 16px;"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" width="64" alt="Firebase" style="margin: 0 16px;"/></a>
+  <a href="https://hibernate.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" width="64" alt="Hibernate" style="margin: 0 16px;"/></a>
+</div>
 
 
 ## Tools & Development Environment
 
-<p align="left">
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" width="48" alt="IntelliJ IDEA"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="48" alt="VS Code"/></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" width="48" alt="Android Studio"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="48" alt="Git"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="48" alt="GitHub"/></a>
-</p>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:32px;">
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" width="64" alt="IntelliJ IDEA" style="margin: 0 16px;"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="64" alt="VS Code" style="margin: 0 16px;"/></a>
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" width="64" alt="Android Studio" style="margin: 0 16px;"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="64" alt="Git" style="margin: 0 16px;"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="64" alt="GitHub" style="margin: 0 16px;"/></a>
+</div>
 
 ## Build & Testing
 
-<p align="left">
-  <a href="https://maven.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" width="48" alt="Maven"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="48" alt="Postman"/></a>
-  <a href="https://projectlombok.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lombok.png" width="48" alt="Lombok"/></a>
-</p>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:32px;">
+  <a href="https://maven.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" width="64" alt="Maven" style="margin: 0 16px;"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="64" alt="Postman" style="margin: 0 16px;"/></a>
+  <a href="https://projectlombok.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lombok.png" width="64" alt="Lombok" style="margin: 0 16px;"/></a>
+</div>
 
 
 ## 📊 GitHub Analytics
