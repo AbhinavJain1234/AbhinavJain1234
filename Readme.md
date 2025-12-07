@@ -91,24 +91,35 @@ I'm a passionate developer who loves building amazing projects and exploring new
 </div>
 
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
-<div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhinavJain1234&show_icons=true&theme=radical&count_private=true)](https://github.com/AbhinavJain1234)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavJain1234&layout=compact&theme=radical)](https://github.com/AbhinavJain1234)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhinavJain1234&theme=radical)](https://github.com/AbhinavJain1234)
-
-<!-- Isometric Commit Calendar -->
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar"/>
-
+<div align="center" style="margin: 8px 0;">
+  <a href="https://github.com/AbhinavJain1234" target="_blank">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhinavJain1234&theme=radical" alt="GitHub Profile Details" style="border: 2px solid #ffffff; border-radius: 12px;"/>
+  </a>
+  
 </div>
 
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:24px; margin: 16px 0;">
+  <a href="https://github.com/AbhinavJain1234" target="_blank">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhinavJain1234&theme=radical" alt="GitHub Stats" style="border: 2px solid #ffffff; border-radius: 12px;"/>
+  </a>
+  <a href="https://github.com/AbhinavJain1234" target="_blank">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhinavJain1234&theme=radical" alt="Most Commit Language" style="border: 2px solid #ffffff; border-radius: 12px;"/>
+  </a>
+</div>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:24px; margin: 16px 0;">
+
+<a href="https://github.com/AbhinavJain1234" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavJain1234&theme=radical" alt="Most Commit Language" style="border: 2px solid #ffffff; border-radius: 12px;"/>
+  </a>
+</div>
+
+<!-- 
 ---
 
-## 🎮 Fun Game - Snake
+## Fun Game - Snake
 
 <div align="center">
 
@@ -120,7 +131,7 @@ I'm a passionate developer who loves building amazing projects and exploring new
 
 </div>
 
----
+--- -->
 
 ## Get In Touch
 
