@@ -111,9 +111,6 @@ I'm a passionate developer who loves building amazing projects and exploring new
 </div>
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:24px; margin: 16px 0;">
 
-<a href="https://github.com/AbhinavJain1234" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavJain1234&theme=radical" alt="Most Commit Language" style="border: 2px solid #ffffff; border-radius: 12px;"/>
-  </a>
 </div>
 
 <!-- 
